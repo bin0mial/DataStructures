@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1457688231 source:f:\ds lab\stackll\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1457687614 source:f:\ds lab\statckasarray\main.c
+	<stdio.h>
+	<stdlib.h>
+
